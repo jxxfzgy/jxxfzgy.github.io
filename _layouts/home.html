@@ -8,7 +8,8 @@ titles:
 ---
 <div class="m-home">
     <div class="main">
-      {% include snippets/page-title.html %}
+        {% include snippets/page-title.html %}
+        <h1 class="js-page-heading">{{ __return }}</h1>
         <div class="m-post-list">
             {% for post in paginator.posts %}
                 <article>
