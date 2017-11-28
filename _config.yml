@@ -26,7 +26,12 @@ nav_lists:
       zh-Hans: test
       zh-Hant: test
     url: /zhonggy.html
-
+  - titles:
+      en: about
+      zh: 关于
+      zh-Hans: 关于
+      zh-Hant: 关于
+    url: /about.html
 ## GitHub repository (if the site is hosted by GitHub) ##
 # repository: e.g. someone/someone.github.io
 # repository_tree: e.g. master
