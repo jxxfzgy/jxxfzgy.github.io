@@ -14,9 +14,9 @@
 ## Base settings ##
 # url:  #!the base hostname & protocol for your site e.g. https://www.someone.com (!!required!!)
 baseurl: /
-title: Zhongguangyan's blog
+title: Zhongguangyan
 description: > #this means to ignore newlines until "nav_lists:"
-  Zhongguangyan's Blog
+  Zhongguangyan
 
 nav_lists:
   # - title: About
