@@ -20,12 +20,12 @@ description: > #this means to ignore newlines until "nav_lists:"
 
 nav_lists:
   # - title: About
-  - titles:
-      en: test
-      zh: test
-      zh-Hans: test
-      zh-Hant: test
-    url: /zhonggy.html
+  #- titles:
+  #    en: test
+  #    zh: test
+  #    zh-Hans: test
+  #    zh-Hant: test
+  #  url: /zhonggy.html
   - titles:
       en: about
       zh: 关于
