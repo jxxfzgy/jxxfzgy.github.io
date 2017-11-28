@@ -25,14 +25,6 @@ nav_lists:
       zh: 关于
       zh-Hans: 关于
       zh-Hant: 關於
-    title: About
-    url: /test.html
-    
-   - titles:
-      en: test
-      zh: test
-      zh-Hans: test
-      zh-Hant: test
     url: /test.html
 
 ## GitHub repository (if the site is hosted by GitHub) ##
