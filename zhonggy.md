@@ -5,7 +5,7 @@ titles:
   zh: zhonggy
   zh-Hans: zhonggy
   zh-Hant: zhonggy
-key: page-test
+key: page-zhonggy
 ---
 
 zhonggy zhonggy zhonggy zhonggy zhonggy. :-1:
