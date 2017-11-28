@@ -18,7 +18,7 @@
 <div class="m-tags">
     <ul class="inline-list">
         <li><button type="button" class="js-article-tag js-tag-show-all all round-rect-button" onclick="tagSelect('')">
-            Show All<div class="tag-count"> {{ site.posts | size }} </div>
+            全部标签<div class="tag-count"> {{ site.posts | size }} </div>
         </button></li>
         {% for tag in _tags %}
             {% assign cur_size = tag[1].size %}
