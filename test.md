@@ -1,10 +1,10 @@
 ---
 layout: page
 titles:
-  en: About
-  zh: 关于
-  zh-Hans: 关于
-  zh-Hant: 關於
+  en: test
+  zh: test
+  zh-Hans: test
+  zh-Hant: test
 key: page-test
 ---
 
