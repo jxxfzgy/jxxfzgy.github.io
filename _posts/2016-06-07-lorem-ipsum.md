@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 测试 blog
-category: test
 comments: false
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus luctus quam in gravida. Mauris rutrum ullamcorper pellentesque. 
 tags:
