@@ -1,14 +1,14 @@
 ---
 layout: page
 titles:
-  en: test
-  zh: test
-  zh-Hans: test
-  zh-Hant: test
+  en: zhonggy
+  zh: zhonggy
+  zh-Hans: zhonggy
+  zh-Hant: zhonggy
 key: page-test
 ---
 
-Just say something about yourself. :-1:
+zhonggy zhonggy zhonggy zhonggy zhonggy. :-1:
 
 {% highlight javascript %}
 (() => console.log('hello, world!'))();
