@@ -82,3 +82,29 @@ a {
         height: $base-font-size;
     }
 }
+
+.a:before,
+.a:after {
+  transform: scaleX(0);
+}
+
+//---------------------------SCALE-X=1
+.a:hover:before {
+  transform: scaleX(1);
+}
+
+.a:hover:after {
+  transform: scaleX(1);
+}
+
+
+/*************************************************************************
+                                TRANSITIONS
+/*************************************************************************/
+
+.contact-form input[type="submit"]:hover,
+.a:hover:before,
+.a:hover:after {
+  transition: 0.5s;
+
+}
