@@ -15,7 +15,7 @@ a {
         color: $main-color-1;
     }
     @include link-emphasize {
-        text-decoration: underline;
+//         text-decoration: underline;
         color: $main-color-1;
     }
     @include transition(all .8s ease 0s);
