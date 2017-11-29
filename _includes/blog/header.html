@@ -19,7 +19,7 @@
             {% assign href = __return %}
             {% assign __locale = site.data.locale.NAV.HOME %}
             {% include snippets/locale-to-string.html %}
-            <li><a href="{{ href }}">{{ __return }}</a></li>
+            <li><a class="fancy-nav" href="{{ href }}">{{ __return }}</a></li>
             {% if site.paths.all %}
                 {% assign __path = site.paths.all %}
             {% else %}
