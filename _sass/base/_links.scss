@@ -15,7 +15,7 @@ a {
         color: $main-color-1;
     }
     @include link-emphasize {
-//         text-decoration: underline;
+        text-decoration: underline;
         color: $main-color-1;
     }
     @include transition(all .8s ease 0s);
@@ -83,28 +83,3 @@ a {
     }
 }
 
-.fancy-nav:before,
-.fancy-nav:after {
-  transform: scaleX(0);
-}
-
-//---------------------------SCALE-X=1
-.fancy-nav:hover:before {
-  transform: scaleX(1);
-}
-
-.fancy-nav:hover:after {
-  transform: scaleX(1);
-}
-
-
-/*************************************************************************
-                                TRANSITIONS
-/*************************************************************************/
-
-.contact-form input[type="submit"]:hover,
-.fancy-nav:hover:before,
-.fancy-nav:hover:after {
-  transition: 0.5s;
-
-}
