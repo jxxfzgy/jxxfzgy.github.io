@@ -83,17 +83,17 @@ a {
     }
 }
 
-.a:before,
-.a:after {
+.fancy-nav:before,
+.fancy-nav:after {
   transform: scaleX(0);
 }
 
 //---------------------------SCALE-X=1
-.a:hover:before {
+.fancy-nav:hover:before {
   transform: scaleX(1);
 }
 
-.a:hover:after {
+.fancy-nav:hover:after {
   transform: scaleX(1);
 }
 
@@ -103,8 +103,8 @@ a {
 /*************************************************************************/
 
 .contact-form input[type="submit"]:hover,
-.a:hover:before,
-.a:hover:after {
+.fancy-nav:hover:before,
+.fancy-nav:hover:after {
   transition: 0.5s;
 
 }
