@@ -9,7 +9,7 @@ key: page-about
 ---
 
 Just say something about yourself. :+1:
-
+啊色放打算发送到发第三方
 {% highlight javascript %}
 (() => console.log('hello, world!'))();
 {% endhighlight %}
