@@ -16,4 +16,8 @@ Just say something about yourself. :+1:
 
 
 
-<i class="fa fa-rebel" aria-hidden="true"></i>
+<i class="fa fa-rebel a-5x" aria-hidden="true"></i>
+<i class="fa fa-rebel a-10x" aria-hidden="true"></i>
+<i class="fa fa-rebel a-15x" aria-hidden="true"></i>
+<i class="fa fa-rebel a-5x" aria-hidden="true"></i>
+<i class="fa fa-rebel a-30x" aria-hidden="true"></i>
