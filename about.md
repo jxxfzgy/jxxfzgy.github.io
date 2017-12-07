@@ -8,16 +8,6 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
-啊色放打算发送到发第三方
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+About me Nothing to see. :+1:
 
 
-
-<i class="fa fa-rebel fa-5x" aria-hidden="true"></i>
-<i class="fa fa-rebel fa-10x" aria-hidden="true"></i>
-<i class="fa fa-rebel fa-15x" aria-hidden="true"></i>
-<i class="fa fa-rebel fa-5x" aria-hidden="true"></i>
-## <i class="fa fa-rebel fa-3x" aria-hidden="true"></i> 主标题
