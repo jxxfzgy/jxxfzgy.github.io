@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Handler 如何实现切换线程
-key: 20170105
+key: 20180105
 tags: Android Handler
 ---
 
